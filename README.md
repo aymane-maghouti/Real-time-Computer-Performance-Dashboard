@@ -44,17 +44,28 @@ System performance monitoring is crucial for maintaining operational efficiency 
 2. Install required dependencies by following the instructions in the `requirements.txt` file.
 3. Set up the MySQL and SQL Server databases according to the provided schema.(Execute the `database_installation.sql` script on both the MySQL and SQL Server databases.)
 4. Configure the Python scripts with the necessary connection details.
+
     **For MySQL:**
+
     *host* = 'localhost'
+
     *database* = 'system_Performance'
+
     *user* = your username (root by default)
+
     *password* = your password
+
     *table_name* = 'performance'
 
+
     **For SQL Server:**
+
     "*Driver*={SQL Server};"
+
     "*Server*=your server name;"
+
     "*Database*=System_Performance;"
+    
     "*Trusted_Connection*=yes;"
 
 
