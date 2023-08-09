@@ -1,6 +1,10 @@
+-- create the DATABASE
 create database system_Performance;
+
+-- use the DATABASE as a DEFAULT DATABASE
 use system_Performance;
 
+-- create the TABLE
 create table performance (
 time datetime,
 cpu_usage numeric(5,2),
