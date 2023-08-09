@@ -50,7 +50,7 @@ System performance monitoring is crucial for maintaining operational efficiency 
     *database* = 'system_Performance'\n
     *user* = your username (root by default)\n
     *password* = your password\n
-    *table_name* = 'performance'\n
+    *table_name* = 'performance'\\n
 
     **For SQL Server:**
     "*Driver*={SQL Server};"
