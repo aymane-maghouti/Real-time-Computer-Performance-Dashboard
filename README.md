@@ -41,7 +41,8 @@ System performance monitoring is crucial for maintaining operational efficiency 
 ## Setup Instructions
 
 1. Clone the repository: `git clone https://github.com/aymane-maghouti/Real-time-Computer-Performance-Dashboard.git`
-2. Install required dependencies by following the instructions in the `requirements.txt` file.
+2. Install required dependencies by following the instructions in the `requirements.txt` file after navigating to the project folder:
+`pip install -r requirements.txt`
 3. Set up the MySQL and SQL Server databases according to the provided schema.(Execute the `database_installation.sql` script on both the MySQL and SQL Server databases.)
 4. Configure the Python scripts with the necessary connection details.
 
@@ -64,7 +65,7 @@ System performance monitoring is crucial for maintaining operational efficiency 
     *Server*=your server name;
 
     *Database*=System_Performance;
-    
+
     *Trusted_Connection*=yes;
 
 
@@ -78,7 +79,7 @@ System performance monitoring is crucial for maintaining operational efficiency 
 3. The data pipeline transfers data from MySQL to SQL Server.
 4. Open the Power BI file to access the real-time dashboard.
 
-[video]
+If you want to see how it's work, check the LinkedIn post where there is a video explaining how to use it, here it is the link of the post  : <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086787315267723264/" target="_blank">Click here</a>
 
 ---
 ## Data Flow
