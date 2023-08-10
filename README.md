@@ -79,7 +79,7 @@ System performance monitoring is crucial for maintaining operational efficiency 
 3. The data pipeline transfers data from MySQL to SQL Server.
 4. Open the Power BI file to access the real-time dashboard.
 
-If you want to see how it's work, check the LinkedIn post where there is a video explaining how to use it, here it is the link of the post  : <a href="https://www.linkedin.com/feed/update/urn:li:activity:7086787315267723264/" target="_blank">Click here</a>
+If you want to see how it's work, check the LinkedIn post where there is a video explaining how to use it, here it is the link of the post  : <a href="https://www.linkedin.com/posts/aymane-maghouti_dataengineering-powerbi-realtimedata-activity-7095452030726455296-oTct?utm_source=share&utm_medium=member_desktop" target="_blank">Click here</a>
 
 ---
 ## Data Flow
